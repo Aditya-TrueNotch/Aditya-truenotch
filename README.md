@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-<img src="[YOUR_BANNER_IMAGE_URL](https://chatgpt.com/backend-api/estuary/content?id=file_0000000095388207a1e2eb3d87564c9b&ts=495870&p=fs&cid=1&sig=05ec08079ae172032d3174290ca54bcae5c98dc963f68bc6e855766f17a3a651&v=0)" width="100%">
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000095388207a1e2eb3d87564c9b&ts=495870&p=fs&cid=1&sig=05ec08079ae172032d3174290ca54bcae5c98dc963f68bc6e855766f17a3a651&v=0)](https://chatgpt.com/backend-api/estuary/content?id=file_0000000095388207a1e2eb3d87564c9b&ts=495870&p=fs&cid=1&sig=05ec08079ae172032d3174290ca54bcae5c98dc963f68bc6e855766f17a3a651&v=0)" width="100%">
 </p>
 
 ---
