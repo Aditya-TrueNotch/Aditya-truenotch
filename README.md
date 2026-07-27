@@ -2,10 +2,10 @@
 <!--        PROFILE BANNER         -->
 <!-- ============================== -->
 
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Aditya Pal</h1>
 
 <h3 align="center">
-🚀 YOUR_TAGLINE_HERE
+🚀 Aditya-TrueNotch
 </h3>
 
 <p align="center">
