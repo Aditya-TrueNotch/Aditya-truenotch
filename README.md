@@ -18,12 +18,12 @@
 
 <img align="right" alt="Coding" width="350" src="YOUR_GIF_URL">
 
-- 🌱 Currently learning **YOUR_CURRENT_TECH**
-- 💼 Working on **YOUR_PROJECT**
-- 🎯 Goal: **YOUR_GOAL**
-- 💬 Ask me about **YOUR_EXPERTISE**
-- 📫 Reach me at **YOUR_EMAIL**
-- ⚡ Fun Fact: **YOUR_FUN_FACT**
+- 🌱 Currently learning **Advanced java script**
+- 💼 Working on **User based portfolio website**
+- 🎯 Goal: **Software Developer**
+- 💬 Ask me about **Full stack,dev ops**
+- 📫 Reach me at **2k24.2410024**
+- ⚡ Fun Fact: **I am a video editor and motion graphics designer as well**
 
 <br clear="right"/>
 
